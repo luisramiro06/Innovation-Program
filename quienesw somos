@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>¿Quiénes somos?</title>
+  <link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+  <h1>¿Quiénes somos?</h1>
+  <nav>
+    <a href="index.html">Inicio</a> |
+    <a href="quienes-somos.html">¿Quiénes somos?</a>
+  </nav>
+  <p>Somos un grupo de estudiantes comprometidos en crear soluciones innovadoras para escuelas sin bullying.</p>
+</body>
+</html>
